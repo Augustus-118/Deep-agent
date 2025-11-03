@@ -1,0 +1,19 @@
+# Core Google Gemini SDK
+google-generativeai
+
+# Agent Framework (LangChain & LangGraph)
+langchain
+langchain_core
+langchain-google-genai
+langgraph
+
+# Common Agent Tools (Search)
+tavily-python
+duckduckgo-search
+
+# Utilities
+python-dotenv
+ipykernel
+IPython
+typing
+rich
